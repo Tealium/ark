@@ -1,4 +1,4 @@
-name             "ark"
+name              "ark"
 maintainer       "Bryan W. Berry"
 maintainer_email "bryan.berry@gmail.com"
 license          "Apache 2.0"
